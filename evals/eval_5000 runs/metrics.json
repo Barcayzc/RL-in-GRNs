@@ -1,0 +1,7 @@
+{
+  "episodes": 5000,
+  "success_rate": 1.0,
+  "mean_interventions": 3.5584,
+  "avg_return": 8.5584,
+  "std_return": 1.5813252163928835
+}
