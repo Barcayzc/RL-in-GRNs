@@ -22,7 +22,7 @@ from collections import deque
 import numpy as np
 from tqdm import trange
 
-from pbn_env import make_env             # factory from your module
+from pbn_env import make_env             # factory from module
 from dqn.ddqn_per_agent import DDQNPERAgent  # agent we implemented
 
 # ──────────────────────────────────────────────────────────────────────────────
